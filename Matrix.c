@@ -1,4 +1,4 @@
-#include "max7219_8x8.h"
+#include "matrix.h"
 
 //Macros for scrolling speed and number of LED matrix
 #define NUM_DEVICES     1		// Number of cascaded max7219's, or just 1
